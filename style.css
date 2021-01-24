@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.stopwatch {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 100vw;
+  font-family: monospace;
+  font-size: 60px;
+  text-align: center;
+}
+
+button {
+  margin: 30px;
+  font-size: 44px;
+}
